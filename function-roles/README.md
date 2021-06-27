@@ -21,9 +21,6 @@ Here is a little checklist to help you find out if a function is being used as a
 
 Even components can have different roles! You'll learn more about this in the following module (Single Page Apps) when your entire UI is rendered using components. No more HTML :) Here's a little preview:
 
-- _presentational_: Components that display data in a friendly way. These are generally pure functions: data in -> element out. The DOM elements they render are usually not interactive
-- _container_: Components that define how the web page works. These will often use _state_, _handlers_ and _presentational components_ to add interactivity to a web page.
-
 ### Testing Components
 
 One huge benefit of developing your application with components is that you can test each part of the UI in isolation before integrating them into your website. For now you will learn to test your components in two different ways:

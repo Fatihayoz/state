@@ -318,20 +318,17 @@ Screen recordings of class. Coaches, when sending your PR's with links please ..
 
 [Unmesh](https://github.com/unmeshvrije), [Sali](https://github.com/Sali-Almurshidi), [Ismaila](https://github.com/auloin), [Louis](https://github.com/Mamboleoo)
 
-#### Week 1
-
-1. [State & Logging](https://vimeo.com/448445380)
-1. [Object vs. State](https://vimeo.com/448849518)
-1. [Integrating State](https://vimeo.com/448849847)
-
-#### Week 2
-
-1. [Project Planning & Isolate Rendering Data pt. 1](https://vimeo.com/451212160)
-1. [Isolate Rendering Data pt. 2 & Elements vs. Nodes](https://vimeo.com/451212701)
-1. [Integrate Rendering Data](https://vimeo.com/451213025)
-1. [Listener vs. Handler & Quiz Refactor pt. 1](https://vimeo.com/451213285)
-1. [Quiz Refactor pt. 2](https://vimeo.com/451213479)
-1. [Quiz Refactor pt. 3](https://vimeo.com/451213762)
+- Week 1
+  1. [State & Logging](https://vimeo.com/448445380)
+  2. [Object vs. State](https://vimeo.com/448849518)
+  3. [Integrating State](https://vimeo.com/448849847)
+- Week 2
+  1. [Project Planning & Isolate Rendering Data pt. 1](https://vimeo.com/451212160)
+  2. [Isolate Rendering Data pt. 2 & Elements vs. Nodes](https://vimeo.com/451212701)
+  3. [Integrate Rendering Data](https://vimeo.com/451213025)
+  4. [Listener vs. Handler & Quiz Refactor pt. 1](https://vimeo.com/451213285)
+  5. [Quiz Refactor pt. 2](https://vimeo.com/451213479)
+  6. [Quiz Refactor pt. 3](https://vimeo.com/451213762)
 
 ### class-11-12
 
@@ -343,5 +340,11 @@ Screen recordings of class. Coaches, when sending your PR's with links please ..
 - Week 2:
   - [Part 1](https://vimeo.com/495147137)
   - [Part 2](https://vimeo.com/495162820/a3a9aab641)
+
+### class-13-14
+
+[Shao]()
+
+- Week 1: [State & Components](https://vimeo.com/566258456)
 
 [TOP](#state)

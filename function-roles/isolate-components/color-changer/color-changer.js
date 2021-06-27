@@ -10,5 +10,6 @@ export const colorChanger = className => {
   const element = document.createElement('div');
   element.className = className;
   element.addEventListener('mousemove', handleMouseMove);
+
   return element;
 };

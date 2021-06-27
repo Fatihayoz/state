@@ -1,6 +1,7 @@
 {
   "study": {
-    "eval": true,
+    "run": true,
+    "debug": true,
     "save": true,
     "environment": true,
     "type": "module",

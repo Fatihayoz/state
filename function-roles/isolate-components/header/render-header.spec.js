@@ -18,6 +18,24 @@ describe('renderHeader: renders DOM headers of different levels', () => {
     });
     console.dir(actual);
   });
+
+    //try myself
+
+  describe('an H2 with text: "salud"', () => {
+    const actual = renderHeader(2, "salud");
+    it('has tagName "H2"', () => {
+      expect(actual.tagName).toEqual("H2");
+    });
+
+    it('has innerHTML: "salud"', () => {
+      expect(actual.innerHTML).toEqual("salud");
+    });
+    it('has className: "title"', () => {
+      expect(actual.className).toEqual("title");
+    });
+    console.dir(actual);
+  }); 
+  
   describe('an H1 with text: "good bye"', () => {
     const actual = renderHeader(1, 'good bye');
     it('has tagName "H1"', () => {
